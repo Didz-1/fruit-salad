@@ -98,3 +98,7 @@ body, h1, ul, li, form {
   #nutritionSection {
     background-color: rgba(173, 216, 230, 0.8);
   }
+
+  #nutritionSection {
+    white-space: pre-line;
+  }
